@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ColorPicker",
+		"CSS3",
+		"ES6-Toolkit",
+		"HTML Extended",
+		"HTML5",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"PHP-Twig",
+		"Polymer & Web Component Snippets",
+		"SideBarEnhancements"
+	]
+}
