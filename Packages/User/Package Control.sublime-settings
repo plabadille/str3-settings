@@ -5,8 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"Color Highlighter",
 		"ColorPicker",
 		"CSS3",
+		"EditorConfig",
 		"ES6-Toolkit",
 		"HTML Extended",
 		"HTML5",
@@ -14,6 +16,7 @@
 		"Package Control",
 		"PHP-Twig",
 		"Polymer & Web Component Snippets",
+		"Sass",
 		"SideBarEnhancements"
 	]
 }
