@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Color Highlighter",
 		"ColorPicker",
 		"CSS3",
@@ -17,6 +18,7 @@
 		"PHP-Twig",
 		"Polymer & Web Component Snippets",
 		"Sass",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SublimeERB"
 	]
 }
